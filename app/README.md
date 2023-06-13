@@ -1,4 +1,4 @@
-# flutter_shop_application
+# flutter_events_application
 
 A new Flutter project.
 
